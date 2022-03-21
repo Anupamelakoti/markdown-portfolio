@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+fav things 
+- dogs
+- elephant 
+- lion
+- lepoard
+- calf
+- deer
